@@ -1,4 +1,4 @@
-### Hola! Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="15px">
+### Hola! Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">
 
 ```javascript
 const SobreMi = {
