@@ -1,7 +1,28 @@
-### Hi there 👋
+### Hola! Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+```javascript
+const SobreMi = {
+   pronombres: "él" | "Tincho",
+   code: [HTML, CSS, Javascript, Python],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["mySQL"],
+      
+   },
+   OcupaciónActual: ["Estudiante de Ingeniería en Informática, en busca de mi primer experiencia"],
+};
+```
+<p align="center">
+<a href="https://www.linkedin.com/in/juan-mart%C3%ADn-perez-902bb2199/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;  
+<a href="https://www.instagram.com/_t_i_n_c_h_o_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
 <!--
-**TinchoGithub/TinchoGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TinchoGithud/TinchoGithud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
