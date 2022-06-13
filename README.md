@@ -1,9 +1,9 @@
-### Hola! Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hola! Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="15px">
 
 ```javascript
 const SobreMi = {
-   pronombres: "él" | "Tincho",
-   code: [HTML, CSS, Javascript, Python],
+   pronombres: "Martin" | "Tincho",
+   code: [HTML, CSS, Javascript, Python, C#],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -14,7 +14,7 @@ const SobreMi = {
       databases: ["mySQL"],
       
    },
-   OcupaciónActual: ["Estudiante de Ingeniería en Informática, en busca de mi primer experiencia"],
+   OcupaciónActual: ["Desarrollador React Junior | Angular Trainee | Estudiante de Ingeniería en Informática | En busca de mi primer experiencia :)"],
 };
 ```
 <p align="center">
