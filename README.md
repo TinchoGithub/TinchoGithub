@@ -11,7 +11,7 @@ const SobreMi = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["mySQL"],
+      databases: ["Mongodb"],
       
    },
    OcupaciónActual: ["Desarrollador React Junior | Angular Trainee | Estudiante de Ingeniería en Informática | En busca de mi primer experiencia :)"],
