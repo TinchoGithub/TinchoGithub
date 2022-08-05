@@ -14,7 +14,7 @@ const SobreMi = {
       databases: ["Mongodb"],
       
    },
-   OcupaciónActual: ["Desarrollador React Junior | Angular Trainee | Estudiante de Ingeniería en Informática | En busca de mi primer experiencia :)"],
+   OcupaciónActual: ["En busca de mi primer experiencia :) | Estudiante de Ingeniería en Informática"],
 };
 ```
 <p align="center">
