@@ -3,13 +3,13 @@
 ```javascript
 const SobreMi = {
    pronombres: "Martin" | "Tincho",
-   code: [HTML, CSS, Javascript, Python, C#],
+   code: ["Python", "C#"],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         ["HTML", "CSS", "Javascript", "React", "Angular"],
       },
       backEnd: {
-         js: ["Node", "Express"],
+         ["Node", "Express"],
       },
       databases: ["Mongodb", "SQL"],
       
