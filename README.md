@@ -3,18 +3,18 @@
 ```javascript
 const SobreMi = {
    pronombres: "Martin" | "Tincho",
-   code: ["Python", "C#"],
+   code: ["Java"],
    technologies: {
       frontEnd: {
-         ["HTML", "CSS", "Javascript", "React", "Angular"],
+         ["HTML", "CSS", "Javascript", "React", "Angular", "Bootstrap"],
       },
       backEnd: {
-         ["Node", "Express"],
+         ["Java", "Node Js", "Express"],
       },
-      databases: ["Mongodb", "SQL"],
+      databases: ["MySQL", "Mongodb"],
       
    },
-   OcupaciónActual: ["En busca de mi primer experiencia :) | Estudiante de Ingeniería en Informática"],
+   OcupaciónActual: ["Estudiante de Ingeniería en Informática"],
 };
 ```
 <p align="center">
