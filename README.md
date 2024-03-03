@@ -9,7 +9,7 @@ const SobreMi = {
          ["HTML", "CSS", "Javascript", "React", "Angular", "Bootstrap"],
       },
       backEnd: {
-         ["Java", "Node Js", "Express"],
+         ["Java", "Spring", "Node Js", "Express"],
       },
       databases: ["MySQL", "Mongodb"],
       
