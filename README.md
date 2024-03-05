@@ -6,15 +6,15 @@ const SobreMi = {
    code: ["Java"],
    technologies: {
       frontEnd: {
-         ["HTML", "CSS", "Javascript", "React", "Angular", "Bootstrap"],
+         ["React", "Angular", "Bootstrap"],
       },
       backEnd: {
-         ["Java", "Spring", "Node Js", "Express"],
+         ["Java", "Spring"],
       },
-      databases: ["MySQL", "Mongodb"],
+      databases: ["MySQL"],
       
    },
-   OcupaciónActual: ["Estudiante de Ingeniería en Informática"],
+   OcupaciónActual: ["Java Developer", "Estudiante de Ingeniería en Informática"],
 };
 ```
 <p align="center">
