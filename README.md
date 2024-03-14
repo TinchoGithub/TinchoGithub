@@ -1,7 +1,7 @@
-### Hola!👋 Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="1px">
+### Hola!👋 Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> <img src="./avatar.png">
 
 <div align="center">
-<img width=100% src="https://github.com/TinchoGithub/TinchoGithub/blob/main/Backend.png"/>
+<img width=100% src="./Bakend.png"/>
 </div>
 
 <p align="center"> 
@@ -24,7 +24,7 @@
 </p>
 
 
-<div align="center">
+<div align="left">
   <h3>Tecnologías:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -51,13 +51,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?TinchoGithub=TinchoGithub&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinchoGithub&layout=compact&langs_count=7&theme=prussian"/>
 </div>
-<!--
-![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
-<div align="center">
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinchoGithub&layout=compact&hide_border=true&title_color=0B5394&text_color=0B5394&bg_color=0d1117" />
-</div>
--->
   
   
 <div align="center">
