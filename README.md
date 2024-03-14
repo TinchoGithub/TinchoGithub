@@ -44,6 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   </div>    
 </div>
+<br>
 <hr>
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
