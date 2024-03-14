@@ -1,4 +1,4 @@
-### Hola!👋 Soy Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> <img src="./avatar.png">
+### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Soy Martín Perez <img src="./avatar.png" width="30px">
 
 <div align="center">
 <img width=100% src="./Bakend.png"/>
@@ -21,11 +21,15 @@
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="40">
     </a> &nbsp;&nbsp;
+    <a href="https://tinchogithub.github.io/Martin-Perez/" target="_blank">
+        <img loading="lazy" src="./portafolio.png" 
+    height="40">
+
 </p>
 
 
 <div align="left">
-  <h3>Tecnologías:</h3>
+  <h3>🚀 Tecnologías:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -42,16 +46,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   </div>    
 </div>
-
-<!-- ###My Stats: -->
-
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
-<div>
-  <a href="https://github.com/mctechnology17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?TinchoGithub=TinchoGithub&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinchoGithub&layout=compact&langs_count=7&theme=prussian"/>
-</div>
-  
   
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
