@@ -25,7 +25,7 @@
     height="40">
 
 </p>
-
+<br>
 <div align="center">
   <h2>🚀 Tecnologías:</h2>
   <div>
