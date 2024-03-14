@@ -1,4 +1,5 @@
-### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Soy Martín Perez <img src="./avatar.png" width="30px">
+# ``Java Backend Developer.`` 
+### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px">
 
 <div align="center">
 <img width=100% src="./Bakend.png"/>
@@ -8,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=TinchoGithub&label=Profile%20views&color=42b983&style=flat" alt="TinchoGithub-github" />
   <img src="https://img.shields.io/github/followers/TinchoGithub?style=social" alt="TinchoGithub-github" />
 </p>
-
-# ``Java Backend Developer.`` 
 
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
