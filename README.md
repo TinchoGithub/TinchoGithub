@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=TinchoGithub&label=Profile%20views&color=42b983&style=flat" alt="TinchoGithub-github" />
   <img src="https://img.shields.io/github/followers/TinchoGithub?style=social" alt="TinchoGithub-github" />
 </p>
-<hr>
 <h2 align="center">📫 Contacto</h2>
 <p align="center">Puedes contactarme por alguno de estos medios 👇</p>
 <p align="center">
@@ -29,7 +28,7 @@
 
 <hr>
 <div align="center">
-  <h3>🚀 Tecnologías:</h3>
+  <h2>🚀 Tecnologías:</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
