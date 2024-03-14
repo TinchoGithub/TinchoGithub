@@ -2,7 +2,7 @@
 <!-- ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px"> -->
 
 <div align="center">
-<img width=80% src="./Bakend.png"/>
+<img width=100% src="./Bakend.png"/>
 </div>
 
 <p align="center"> 
