@@ -1,4 +1,4 @@
-# ``Java Backend Developer`` <img src="./avatar.png" width="40px">
+# ``Java Backend Developer <img src="./avatar.png" width="40px">`` 
 <!-- ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px"> -->
 
 <div align="center">
@@ -26,7 +26,6 @@
 
 </p>
 
-<hr>
 <div align="center">
   <h2>🚀 Tecnologías:</h2>
   <div>
