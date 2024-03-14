@@ -1,4 +1,4 @@
-# ``Java Backend Developer`` <img src="./avatar.png" width="30px">
+# ``Java Backend Developer`` <img src="./avatar.png" width="40px">
 <!-- ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px"> -->
 
 <div align="center">
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=TinchoGithub&label=Profile%20views&color=42b983&style=flat" alt="TinchoGithub-github" />
   <img src="https://img.shields.io/github/followers/TinchoGithub?style=social" alt="TinchoGithub-github" />
 </p>
-
+<hr>
 <h2 align="center">📫 Contacto</h2>
 <p align="center">Puedes contactarme por alguno de estos medios 👇</p>
 <p align="center">
@@ -46,7 +46,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   </div>    
 </div>
-  
+<hr>
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TinchoGithub}/count.svg" /></p> 
