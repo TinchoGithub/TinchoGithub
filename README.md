@@ -1,4 +1,4 @@
-# ``Java Backend Developer <img src="./avatar.png" width="40px">`` 
+# ``Java Backend Developer``<img src="./avatar.png" width="40px"> 
 <!-- ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px"> -->
 
 <div align="center">
@@ -32,9 +32,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/TinchoGithub/TinchoGithub/blob/main/Postman.png"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  </div>
-    <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;  
   </div>
     <div>
       <img src="https://github.com/TinchoGithub/TinchoGithub/blob/main/Intelij_Idea.png"  title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
