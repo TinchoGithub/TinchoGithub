@@ -1,5 +1,5 @@
-# ``Java Backend Developer`` 
-### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px">
+# ``Java Backend Developer`` <img src="./avatar.png" width="30px">
+<!-- ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px"> -->
 
 <div align="center">
 <img width=100% src="./Bakend.png"/>
@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">📫 Contacto</h2>
-<p>Puedes contactarme por alguno de estos medios 👇</p>
+<p align="center">Puedes contactarme por alguno de estos medios 👇</p>
 <p align="center">
     <!-- </a> &nbsp;&nbsp; -->
     <a href="https://www.linkedin.com/in/martín-perez-902bb2199/" target="_blank">
@@ -27,7 +27,7 @@
 
 </p>
 
-
+<hr>
 <div align="center">
   <h3>🚀 Tecnologías:</h3>
   <div>
