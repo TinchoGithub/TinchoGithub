@@ -1,4 +1,4 @@
-# ``Java Backend Developer.`` 
+# ``Java Backend Developer`` 
 ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px">
 
 <div align="center">
@@ -11,23 +11,24 @@
 </p>
 
 <h2 align="center">📫 Contacto</h2>
+<p>Puedes contactarme por alguno de estos medios 👇</p>
 <p align="center">
-    <a href="https://github.com/TinchoGithub" target="_blank">
-        <img loading="lazy" src="https://distreau.com/github.svg" 
-    height="40">
-    </a> &nbsp;&nbsp;
+    <!-- </a> &nbsp;&nbsp; -->
     <a href="https://www.linkedin.com/in/martín-perez-902bb2199/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="40">
-    </a> &nbsp;&nbsp;
+    <!-- </a> &nbsp;&nbsp; -->
     <a href="https://tinchogithub.github.io/Martin-Perez/" target="_blank">
         <img loading="lazy" src="./portafolio.png" 
+    height="40">
+    <a href="mailto:perezjmartin12@gmail.com?subject=Asunto del correo&body=Cuerpo del mensaje" target="_blank">
+        <img loading="lazy" src="./gmail.png" 
     height="40">
 
 </p>
 
 
-<div align="left">
+<div align="center">
   <h3>🚀 Tecnologías:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
