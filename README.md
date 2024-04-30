@@ -10,7 +10,7 @@
   </a>
   <a href="https://www.instagram.com/_t_i_n_c_h_o_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-  <a href="URL_DE_TU_PORTFOLIO" title="Portfolio">
+  <a target="_blank" href="[URL_DE_TU_PORTFOLIO](https://tinchogithub.github.io/Martin-Perez/)" title="Portfolio">
   <img src="https://img.shields.io/badge/💼 Portfolio-1e90ff?style=flat-square&label" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=TinchoGithub&label=Profile%20views&color=42b983&style=flat" alt="TinchoGithub-github" />
