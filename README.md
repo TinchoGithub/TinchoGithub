@@ -47,7 +47,10 @@ desafiantes.* <br>
   <img src="https://skillicons.dev/icons?i=postman,git,github,docker,linux,idea,vscode,notion,discord&perline=6" />
 </a>
 
+<br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TinchoGithub&show_icons=true&theme=tokyonight&locale=en" alt="TinchoGithub" /></p>
+
 
 <p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=TinchoGithub&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="TinchoGithub" /></p>
 
