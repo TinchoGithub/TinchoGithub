@@ -1,51 +1,47 @@
-# `` Java Backend Developer ``<img src="./avatar.png" width="40px"> 
+## <img src="./avatar.png" width="30px"> Hola, mi nombre es Juan Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
+<img src="./Banner.png" width="100%">
+
 <!-- ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px"> -->
-
-<div align="center">
-<img width=100% src="./Bakend.png"/>
-</div>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=TinchoGithub&label=Profile%20views&color=42b983&style=flat" alt="TinchoGithub-github" />
   <img src="https://img.shields.io/github/followers/TinchoGithub?style=social" alt="TinchoGithub-github" />
 </p>
-<h2 align="center">📫 Contacto</h2>
-<p align="center">Puedes contactarme por alguno de estos medios 👇</p>
+
+## 👨‍💻 Sobre mí  
+
+Soy un desarrollador de software backend especializado en Java y Spring, actualmente estudiante de Ingeniería en Informática en la 
+Universidad Nacional Arturo Jauretche. Me apasiona la tecnología y me destaco por mi enfoque autodidacta. Soy una persona 
+proactiva y tengo habilidades sólidas para el trabajo en equipo, lo que me permite colaborar eficazmente en proyectos complejos y 
+desafiantes.
+
+## 📫 Contacto
+Puedes contactarme por alguno de estos medios 👇
 <p align="center">
     <!-- </a> &nbsp;&nbsp; -->
     <a href="https://www.linkedin.com/in/martín-perez-902bb2199/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="40">
+    height="40">_
     <!-- </a> &nbsp;&nbsp; -->
     <a href="https://tinchogithub.github.io/Martin-Perez/" target="_blank">
         <img loading="lazy" src="./portafolio.png" 
-    height="40">
+    height="50">_
     <a href="mailto:perezjmartin12@gmail.com?subject=Asunto del correo&body=Cuerpo del mensaje" target="_blank">
         <img loading="lazy" src="./gmail.png" 
-    height="40">
-
+    height="45">
 </p>
-<br>
-<div align="center">
-  <h2>🚀 Tecnologías:</h2>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/TinchoGithub/TinchoGithub/blob/main/Postman.png"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  </div>
-    <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;   
-  </div>
-    <div>
-      <img src="https://github.com/TinchoGithub/TinchoGithub/blob/main/Intelij_Idea.png"  title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/TinchoGithub/TinchoGithub/blob/main/github.svg"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  </div>    
-</div>
-<br>
-<hr>
+
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Tecnologías
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,mysql,postgresql,html,css,javascript,react,bootstrap,angular&perline=6" />
+</a>
+
+## 🛠️ Herramientas
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,docker,linux,idea,vscode,notion,discord&perline=6" />
+</a>
+
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TinchoGithub}/count.svg" /></p> 
