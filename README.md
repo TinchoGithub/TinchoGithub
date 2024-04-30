@@ -1,4 +1,4 @@
-## <img src="./avatar.png" width="30px"> Hola, mi nombre es Juan Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
+### <img src="./avatar.png" width="30px"> Hola, mi nombre es Juan Martín Perez<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
 <img src="./Banner.png" width="100%">
 
 <!-- ### Hola!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Soy Martín Perez <img src="./avatar.png" width="30px"> -->
@@ -9,14 +9,14 @@
 
 ## 👨‍💻 Sobre mí  
 
-Soy un desarrollador de software backend especializado en Java y Spring, actualmente estudiante de Ingeniería en Informática en la 
+**Soy un desarrollador de software backend especializado en Java y Spring, actualmente estudiante de Ingeniería en Informática en la 
 Universidad Nacional Arturo Jauretche. Me apasiona la tecnología y me destaco por mi enfoque autodidacta. Soy una persona 
 proactiva y tengo habilidades sólidas para el trabajo en equipo, lo que me permite colaborar eficazmente en proyectos complejos y 
-desafiantes.
+desafiantes.**
 
 ## 📫 Contacto
 Puedes contactarme por alguno de estos medios 👇
-<p align="center">
+<p >
     <!-- </a> &nbsp;&nbsp; -->
     <a href="https://www.linkedin.com/in/martín-perez-902bb2199/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
