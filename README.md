@@ -6,13 +6,11 @@
   <a href="https://www.linkedin.com/in/juan-mart%C3%ADn-perez-902bb2199/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/1151266942" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/_t_i_n_c_h_o_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-  <a target="_blank" href="[URL_DE_TU_PORTFOLIO](https://tinchogithub.github.io/Martin-Perez/)" title="Portfolio">
-  <img src="https://img.shields.io/badge/💼 Portfolio-1e90ff?style=flat-square&label" alt="Portfolio"/>
-  </a>
+  <a target="_blank" href="https://tinchogithub.github.io/Martin-Perez/" title="Portfolio">
+  <img src="https://img.shields.io/badge/💼 Portfolio-1e90ff?style=flat-square&label" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=TinchoGithub&label=Profile%20views&color=42b983&style=flat" alt="TinchoGithub-github" />
   <img src="https://img.shields.io/github/followers/TinchoGithub?style=social" alt="TinchoGithub-github" />
 </p>
@@ -48,6 +46,8 @@ desafiantes.* <br>
 </a>
 
 <br>
+
+### GitHub Stats
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TinchoGithub&show_icons=true&theme=tokyonight&locale=en" alt="TinchoGithub" /></p>
 
