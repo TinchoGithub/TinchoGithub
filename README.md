@@ -22,8 +22,9 @@
 
 
 ## 👨‍💻 Sobre mí  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" >
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" > -->
 
+<img src="./developer.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" >
 <br>
 
 *Soy un desarrollador de software backend especializado en Java y Spring, actualmente estudiante de Ingeniería en Informática en la 
