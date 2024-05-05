@@ -25,13 +25,12 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" > -->
 
 <img src="./developer.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px"  align="right" >
-<br><br><br><br>
+<br>
 
 *Soy un desarrollador de software backend especializado en Java y Spring, actualmente estudiante de Ingeniería en Informática en la 
 Universidad Nacional Arturo Jauretche. Me apasiona la tecnología y me destaco por mi enfoque autodidacta. Soy una persona 
 proactiva y tengo habilidades sólidas para el trabajo en equipo, lo que me permite colaborar eficazmente en proyectos complejos y 
 desafiantes.* <br>
-
 <br>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Tecnologías
