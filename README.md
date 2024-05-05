@@ -60,7 +60,7 @@ desafiantes.* <br>
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TinchoGithub}/count.svg" /></p> 
 <br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172f45&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36cf99&height=120&section=footer"/>
 
 
 
